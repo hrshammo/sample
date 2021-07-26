@@ -255,7 +255,7 @@ side .dropdown a:first-child{
 	font-weight:bold;
 }
 .sdr{
-    top: -5px;
+       top: 46px;
     left: 400px;
     width: 400px;
 }
@@ -328,7 +328,7 @@ side .dropdown a:first-child{
 .details{
     height: 400px;
     float: left;
-    top: -591px;
+   top: -480px;
     border-top: 1px solid #ff94c1;
     z-index: 8;
     left:250px
