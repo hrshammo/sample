@@ -486,6 +486,7 @@ background: linear-gradient(90deg, rgba(249,182,255,0.8883928571428571) 57%, rgb
     text-align: initial;
     left: 379px;
     line-height: 20px;
+	top:100px;
 }
 .productsdetails h2, .productsdetails h3{
     margin-top: 10px;
